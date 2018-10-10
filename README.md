@@ -5,7 +5,7 @@
 되었을 때 SNS Service를 이용해 메신저로 확인할 수 있게 자동화 완료
 
 
-### Tablesapce File comment
+### Tablespace File comment
 |  구분| 파일명| Comments|
 |:-----: |----------------------------------:|---------------------------------:|
 | Python | aws_sns_alert_TBS_size_chk_v2.1.py| 현재 운영상에 적용되고 있는 Script |
