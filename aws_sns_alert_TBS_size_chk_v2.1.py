@@ -19,7 +19,6 @@ print ("start_time: ",start_time," seconds")
 # Create an SNS client
 
 # DB connencting
-%%time
 con_fims2005 = cx_Oracle.connect('fimsr/vudrk_read@192.168.1.130:1521/FIMS2005')
 con_funddb   = cx_Oracle.connect('11834/3793@192.168.1.127:1521/FUNDDB')
 con_idx01    = cx_Oracle.connect('11834/3793@192.168.1.151:1521/IDX01')
